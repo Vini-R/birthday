@@ -20,4 +20,15 @@
     width:100%;
     border-radius:50%;
 }
-
+.birthday-button{
+    background-color: red;
+    color:white;
+    font-size: 25px;
+    border-radius: 12px;
+    margin-top:20px;
+    padding:10px;
+    width:250px;
+    font-weight: bold;
+    padding-left:10px;
+    padding-right:20px;
+}
