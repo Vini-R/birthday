@@ -4,9 +4,10 @@
     background-color: rgb(190, 212, 228);
     padding-top: 100px;
     padding-bottom: 100px;
+    height:100vh;
 }
 .birthday-heading{
-    font-size:50px;
+    font-size:80px;
     color:rgb(14, 90, 148);
     text-align: center;
     font-family: 'Bree Serif';
