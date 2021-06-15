@@ -2,11 +2,11 @@
 
 .birthday-bg{
     background-color: rgb(190, 212, 228);
-    padding-top: 50px;
+    padding-top: 100px;
     padding-bottom: 100px;
 }
 .birthday-heading{
-    font-size:35px;
+    font-size:50px;
     color:rgb(14, 90, 148);
     text-align: center;
     font-family: 'Bree Serif';
@@ -19,8 +19,4 @@
     width:100%;
     border-radius:50%;
 }
-.birthday-beer{
-    width:200px;
-    height:200px;
-    margin-top: 120px;
-}
+
